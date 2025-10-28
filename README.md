@@ -1,9 +1,7 @@
-# MVC_Project_Group_4
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+# HRMASTER
 
 ## 🧾 Proje Özeti  
-`MVC_Project_Group_4`, ASP.NET Core MVC teknolojileri kullanılarak geliştirilmiş bir İnsan Kaynakları / Personel Yönetimi senaryolu web uygulamasıdır.  
+`HRMASTER`, ASP.NET Core MVC teknolojileri kullanılarak geliştirilmiş bir İnsan Kaynakları / Personel Yönetimi senaryolu web uygulamasıdır.  
 Proje kapsamında yöneticiler; Personel ekleme, silme, listeleme, profil resmi yönetimi gibi fonksiyonları kullanabilir. Personel kullanıcıları ise kendi bilgilerinin görüntülenmesi ve güncellenmesi gibi işlemleri gerçekleştirebilir.
 
 ## 🎯 Öne Çıkan Özellikler  
